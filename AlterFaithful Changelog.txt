@@ -1,0 +1,117 @@
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 08/05/2019)
+
+--------
+1.14.x-a 1.14 Vibes
+--------
+
++ Added 3D models for some items in GUI/in hand
++ Added custom placeholder Birch Sapling texture
++ Added custom Emerald Ore and Redstone Ore texture
++ Added custom raw and polished textures for granite, diorite and/or andesite
++ Added better slabs
++ Added custom Feather texture, to make something between the new one and the old one
++ Changed the "Crafting book" icon in the inventory
++ Added a custom texture for the Cleric Villager tabard
++ Added colours to various diamond and emerald items name
++ Added clearer Observer textures
++ Added clearer Sticky Piston textures
++ Added custom options background
++ Brought back the good old purple arrow, that only old timers can remember
++ And better arrows in general
++ Small tweak to the sea lantern animation settings, to make it smoother
++ Tweaked the lantern animation
++ Added a custom texture for the debug stick
++ Once in a while, Dave will spawn and will try to get his Gameboy back!
++ Lotz of creepers
++ Chests should do chest particles when destroyed and not wood/obsidian
++ Added corresponding mobs inhibitor textures
++ Added some splash texts
+* Redid the CTM sandstone textures to match the brand new sandstone
+* Redid the CTM TNT textures to match the brand new ones
+* Redid the CTM glass textures to match the brand new one, removed the "non-CTM" one
+* Changed Villager textures to avoid perma-Nitwit apocalypse
+* Entirely redid the enchantment font and particles
+* Fixed non latin font textures
+* Tweaked some misc gui textures
+* Corrected Armourer spelled incorrectly in en_GB lang file
+- Removed the old gravel texture, the brand new one is cool
+- Removed obsolete custom colour for Signs text
+
+
+--------
+1.13.x-d Lava Shulkers
+--------
+
++ Brought back the good old lava texture!
++ Added Custom GUI Shulker textures (lots of colours!)
++ Added mycelium particles colormap
++ Added custom splash texts
++ Added colours for the Diamond and Emerald items
+
+
+--------
+1.13.x-c Doubting Villagers
+--------
+
+* Removed Randomobs Villager textures, and animated their eyebrows instead
+* Added and tweaked some easter egg textures
+- Removed WoW lvl up sound
+
+
+--------
+1.13.x-b [Fixes]
+--------
+
+* Some corrections in the splashes
+- Removed custom player hurt sounds
+
+
+--------
+1.13.x-a "Update Aquatic"
+--------
+
++ Added custom damage sounds for the player (WoW night elf female sounds, for regular damage and fire damage)
++ Added two Randomobs textures for the Husk
++ Added two sets of Randomobs textures for the Drowned
++ Added customised splash texts
++ Added support for new accentuated characters system
++ Added text support for some unobtainable enchant levels (eg. lvl 127, which you can obtain if you edit some NBT tags)
+* Unbroke a lot of things due to some changes in some files/folder names, from both Minecraft and Optifine
+* Completely re-did the custom lang files due to a change of format (This could go under the previous point, but it was such a pain in the @µ$3, I think it deserves to be mentionned exclusively)
+* Added Vanilla textures for the new mobs
+* Tweaked the buckets textures, gimme my good old lava bucket back D:
+* Brought back the pre 1.13 Faithful feather texture
+* Small tweak to "ping" textures
+- Removed unused elytra textures
+
+
+--------
+1.12.x-a "Initial Release"
+--------
+
++ Added custom sky features
++ Tweaked the Path block's grass color, to make it a little bit more vibrant
++ Added Faithful's good old gravel texture, nostalgia is here!
++ Added custom glass textures, clear glass ftw
++ Added custom Iron and Emerald blocks, to make them look like the golden block and the good old iron block from before
++ Added slightly edited anvil textures, to see if it's  dangerously damaged easily
++ Added Vanilla mobs textures, to inhibit Faithful's textures
++ Added Randomobs textures for the Iron Golem. So shiny <3
++ Added Randomobs textures for the Villagers and the Zombie Villagers. Huuuh.
++ The blue Parrot was WAY TOO blue imho, so I fixed it.
++ Added Paper Cut-Out font, slightly tweaked to match some actual in game special characters (like È, À, etc, as they are more commonly used in French and other languages)
++ Added custom effect for enchanted items
++ Tweaked Faithful's dandelion CTM textures; I never understood why some of those textures had white flowers, there are white flowers already
++ Replaced the Poppy thing with the TRUE and ONLY rose everyone loves
++ Tweaked the Iron Nugget texture, to make it look like the Gold Nugget
++ Tweaked the Cooked Porkchop, with better colors
++ Added custom CTM textures for clearer glass, better sandstone (smooth and carved), better ladders and randomized TNT
++ Added custom color for texts on signs (#333333 instead of default black)
++ Changed default Steve skin, just in case, I don't like to look stupid when I play offline
++ Added colors in the text files (en_GB, en_US and fr_FR)
++ Replaced Baked Potatoes with Chips (or French Fries, if you're some american weirdo; btw these are belgian, not french)
++ Replaced "Hardcore" hearts with something more HARDCORE
++ Tweaked some minor gui textures
++ Added some easter egg textures
+
+(Note: Every textures marked as "tweaked" in this release are tweaked from the Faithful textures directly)
