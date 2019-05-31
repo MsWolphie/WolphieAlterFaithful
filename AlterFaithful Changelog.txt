@@ -1,9 +1,13 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 28/05/2019)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 31/05/2019)
 
 --------
-1.14.2+ 0.1.2 Name here
+1.14.2+ 0.2.0 Hats & Caps
 --------
 
++ Added custom Lava and Water bucket textures
++ Added custom Leather Cap, which looks like the Fletcher hat
++ Added 16x textures for armour, to match the entities
++ Added custom splash lines
 * Tweak to Item frames
 * Fixed old pack name mention in the lang files
 - Removed now deprecated Villager textures
