@@ -1,7 +1,7 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 03/06/2019)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 27/08/2019)
 
 --------
-1.14.2+ 0.2.0 Hats & Caps
+1.14.4+ 0.2.0 Hats & Caps
 --------
 
 + Added custom Lava and Water bucket textures
@@ -12,9 +12,10 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 03/06/2019)
 + Added 16x textures for remaining armours, to match the 16x entities
 + Added custom splash lines
 + Added levels 61 to 70 to lang files
-+ Added partial support to this datapack: https://www.youtube.com/watch?v=lZP-qnDFz5k (Put this pack on top of the original one)
-* Tweak to Item frames
+* Redid the Shulker Shell item's model to take textures from shulker entity, removed now deprecated additional textures
+* Redid the Item Frame... well, item
 * Fixed old pack name mention in the lang files
+* Fixed (AGAIN) the new font textures for 1.14.4 and superior (Common Mojang end my suffering please)
 - Removed now deprecated Villager textures
 - Removed now deprecated particle texture file
 - Removed obsolete pre 1.14.2 fonts backups
