@@ -1,14 +1,17 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 29/08/2019)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 30/08/2019)
 
 --------
 1.14.4+ 0.2.1 Fixes
 --------
 
-+ Brought back the previous Faithful Stone & Ores textures, new texture is way too noisy imho. Remember when the Faithful's point was supposed to be... well, *faithful* to the original?
++ Brought back the previous Faithful Stone & Ores textures, new texture is way too noisy imho. Remember when the Faithful's goal was supposed to be... well, *faithful* to the original?
 + Same thing with gravel
++ Added Vanilla bees textures in prevision for 1.15
 + Fixed weird "strips" on Gold Ingot
-+ Fixed error message linked to an old line in a custom model
+* Fixed error message linked to an old line in a custom model
 * Updated Iron Nugget Texture 
+* Tweaked creeper random properties
+- Removed obsolete Mooshroom texture
 
 
 --------
