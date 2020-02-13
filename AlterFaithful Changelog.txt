@@ -1,15 +1,17 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 07/02/2020)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 13/02/2020)
 
 --------
 1.15.x 0.2.2 
 --------
 
++ Custom "bricked" cobblestone and mossy cobblestone
 + Little tweak to the light sensors
 + Added support for AppleSkin mod (it's a great mod, seriously)
 + Added custom Netherite block texture to match Gold/Diamond/etc blocks
 + Added custom texture for the Netherite Ingot texture, with less "impurities"
 + Subtle animation on Enchanted Golden Apple (with small update of its textures)
-* Updated to 1.15
++ Infested stones now appear with a "biohazard" overlay in the inventory (thx PureBDCraft for the inspiration/idea)
+* Updated to 1.15 (+ Iron Golem files relocation)
 * Updated observers design to match the new Faithful one
 * Redone door items
 * Redone Iron and Emerald blocks to match the new Faithful Gold/Diamond blocks
