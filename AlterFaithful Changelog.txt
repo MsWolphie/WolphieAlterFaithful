@@ -1,7 +1,7 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 13/02/2020)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 28/02/2020)
 
 --------
-1.15.x 0.2.2 
+1.16.x 0.2.2 
 --------
 
 + Custom "bricked" cobblestone and mossy cobblestone
@@ -11,7 +11,8 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 13/02/2020)
 + Added custom texture for the Netherite Ingot texture, with less "impurities"
 + Subtle animation on Enchanted Golden Apple (with small update of its textures)
 + Infested stones now appear with a "biohazard" overlay in the inventory (thx PureBDCraft for the inspiration/idea)
-* Updated to 1.15 (+ Iron Golem files relocation)
+* Updated to 1.16 (+ Iron Golem files relocation)
+* Updated wall torch models to make them compatible with both 1.15.x and 1.16.x versions
 * Updated observers design to match the new Faithful one
 * Redone door items
 * Redone Iron and Emerald blocks to match the new Faithful Gold/Diamond blocks
@@ -19,6 +20,7 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 13/02/2020)
 * Fixed Enchanted Golden Apple showing incorrectly in 3rd person
 * Tweaked explosion sound
 * Updated pack icon to match the new Faithful icon
+- Removed pig villagers, now irrelevant with the new update
 
 
 --------
