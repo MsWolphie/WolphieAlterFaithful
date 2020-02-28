@@ -1,7 +1,15 @@
 MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 28/02/2020)
 
 --------
-1.16.x 0.2.2 
+1.16.x 0.3.1 
+--------
+
++ Added missing 1.16 mobs textures
+* Fixed shield broken in Faithful files
+
+
+--------
+1.16.x 0.3.0 
 --------
 
 + Custom "bricked" cobblestone and mossy cobblestone
