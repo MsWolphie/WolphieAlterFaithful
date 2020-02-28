@@ -19,7 +19,7 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 28/02/2020)
 * Redone enchant effect
 * Fixed Enchanted Golden Apple showing incorrectly in 3rd person
 * Tweaked explosion sound
-* Updated pack icon to match the new Faithful icon
+* Updated pack icon
 - Removed pig villagers, now irrelevant with the new update
 
 
