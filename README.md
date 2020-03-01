@@ -1,4 +1,4 @@
-Ms. Wolphie's AlterFaithful 1.15.x
+Ms. Wolphie's AlterFaithful 1.16.x
 
 ----------------------
 
@@ -14,4 +14,4 @@ Ressources used from other packs
 
 Fonts : Paper Cut-Out (heavily tweaked/corrected);
 Some textures are taken/tweaked from the Vattic and xMrVizzy Faithful (https://faithful.team), obviously, as this pack should be used with it;
-Thanks to piber20, some custom 3D models were inspired from their own pack
+Thanks to piber20, some custom 3D models were inspired from their own pack; Same for PureBDCraft
