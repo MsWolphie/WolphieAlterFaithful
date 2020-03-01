@@ -5,7 +5,9 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 28/02/2020)
 --------
 
 + Added missing 1.16 mobs textures
++ Soul Fire Lanterns should now behave like their "normal" counterparts
 * Fixed shield broken in Faithful files
+* Reverted Faithful grass and dirt blocks to the previous ones (but not THE old ones)
 
 
 --------
