@@ -1,6 +1,14 @@
 MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 01/03/2020)
 
 --------
+1.16.x 0.3.3
+--------
+
++ Is it me, or... does new Faithful axes looks like they have a ridiculously small head now? Well not anymore!
++ Added a few splash texts
+
+
+--------
 1.16.x 0.3.2 
 --------
 
