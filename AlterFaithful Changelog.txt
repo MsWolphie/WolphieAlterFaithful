@@ -1,13 +1,19 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 28/02/2020)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 01/03/2020)
+
+--------
+1.16.x 0.3.2 
+--------
+
++ Soul Fire Lanterns should now behave like their "normal" counterparts
+* Reverted Faithful grass and dirt blocks to the previous ones (but not THE old ones)
+
 
 --------
 1.16.x 0.3.1 
 --------
 
 + Added missing 1.16 mobs textures
-+ Soul Fire Lanterns should now behave like their "normal" counterparts
 * Fixed shield broken in Faithful files
-* Reverted Faithful grass and dirt blocks to the previous ones (but not THE old ones)
 
 
 --------
