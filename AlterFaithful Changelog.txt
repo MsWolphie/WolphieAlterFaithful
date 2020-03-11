@@ -1,4 +1,4 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 03/03/2020)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 11/03/2020)
 
 --------
 1.16.x 0.3.3
@@ -9,6 +9,7 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 03/03/2020)
 + Brought back previous rotten flesh texture
 + Brought back previous logs textures (except birch)
 + Added a few splash texts
++ Slightly changed the colour of petrified oak slabs
 
 
 --------
