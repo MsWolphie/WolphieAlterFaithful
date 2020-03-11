@@ -7,6 +7,7 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 03/03/2020)
 + Cobblestone slabs should now use randomized textures like their block counterparts
 + Is it me, or... does new Faithful axes looks like they have a ridiculously small head now? Well not anymore!
 + Brought back previous rotten flesh texture
++ Brought back previous logs textures (except birch)
 + Added a few splash texts
 
 
