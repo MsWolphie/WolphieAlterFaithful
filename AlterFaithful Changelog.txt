@@ -1,4 +1,4 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 13/03/2020)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 16/03/2020)
 
 --------
 1.16.x 0.3.4
@@ -6,7 +6,9 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 13/03/2020)
 
 + Added custom model variants for flower pots (soulsand soil for wither roses, warped/crimson thingy for corresponding fungi, sand for cacti, or completely empty)
 + Added ore variants for diorite, andesite and granite (CTM)
++ Added custom generic_0 particle texture (the one used on top of mycelium blocks, I didn't like the "slash" feel it has)
 * Changed Stone texture to match ores a bit more
+- Removed rainbow trippy Mycelium particle custom colours
 
 
 --------
