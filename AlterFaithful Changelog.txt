@@ -1,4 +1,17 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 24/03/2020)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 27/03/2020)
+
+--------
+1.16.x 0.4.2
+--------
+
++ Added default Strider textures
++ Added custom arrows (Seems like I forgot to add my custom textures for tipped and spectral arrows at some point, whoops)
++ Redid the custom helmets, but in 32x instead of 16x
+* Updated the blue parrot texture to a 32x texture
+* Fixed banners, a bit broken in Faithful files
+- Removed 16x textures for mobs. I'm tired to update them all every time, so duck it, let's just keep the 32x ones
+- Removed kinda useless Husks & Drowned variations
+
 
 --------
 1.16.x 0.4.1
