@@ -1,10 +1,19 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 31/03/2020)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 08/04/2020)
+
+--------
+1.16.x 0.4.3
+--------
+
++ Added custom inventory model for the Soul Campfire
+* Regular campfire is now fixed and lit in the inventory
+* Mixed the new Nether Gold Ore with the old Netherrack texture
+* Redid Nether Quartz Ore to match the new Nether Gold Ore texture
+
 
 --------
 1.16.x 0.4.2
 --------
 
-+ Added default Strider textures
 + Added custom arrows (Seems like I forgot to add my custom textures for tipped and spectral arrows at some point, whoops)
 + Added previous potato textures for raw and poisonous. Noisy potato is too noisy.
 + Added previous Faithful bee textures
