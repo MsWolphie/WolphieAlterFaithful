@@ -6,7 +6,7 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 08/04/2020)
 
 + Added custom inventory model for the Soul Campfire & its custom fire texture
 + Added custom regular campfire texture for its fire
-+ Added proper smooth blackstone slab textures & models (like carved sandstone); ! VANILLA TEXTURES HERE, awaiting new Faithful textures
++ Added proper polished blackstone slab textures & models (like carved sandstone), and a better "cutted" polished blackstone texture based on new Faithful texture
 + Added custom cracked nether bricks
 * Regular campfire is now fixed and lit in the inventory
 * Mixed the new Nether Gold Ore with the old Netherrack texture
