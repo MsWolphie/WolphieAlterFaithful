@@ -1,4 +1,4 @@
-MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 09/05/2020)
+MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 25/08/2020)
 
 --------
 1.16.x 0.4.3
@@ -13,6 +13,12 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 09/05/2020)
 + Tweaked Totem of Undying position in first person view, to make it less obtrusive
 + Added custom textures/models for fences
 + Added custom items for crimson and warped doors for consistency with other door item textures
++ Added CIT textures for certain "broken" tools
++ Added CIT textures depending on rocket flight durations
++ Slightly tweaked Netherite Helmet item texture to match the custom armor texture
++ Reverted Faithful Beds to the default 3D Item model
++ Updated Bedrock texture
++ Added old Faithful ladder texture
 * Corrected dirt colour texture, re-did Podzol texture to match top podzol AND dirt texture, added missing Mycelium side texture
 * Regular campfire is now fixed and lit in the inventory
 * Mixed the new Nether Gold Ore with the old Netherrack texture
@@ -20,7 +26,11 @@ MS. WOLPHIE'S ALTERFAITHFUL (32x) - CHANGELOG (Last update: 09/05/2020)
 * Updated axes textures to match the new Faithful style, while keeping the old head form
 * Changed "default" shulker box gui
 * Reverted to "current" potato textures, but tweaked them a bit to kinda make them a bit smoother
+* Tweaked enchant glint effect
 * Updated sticky piston textures
+* Tweaked wall torches to use anvil "black iron" texture instead of the blast furnace one
+* Updated Soul Lantern item model
+- Removed old Paper Cut-Out font, I burned out of it
 - Removed "very damaged" custom anvil texture
 
 
